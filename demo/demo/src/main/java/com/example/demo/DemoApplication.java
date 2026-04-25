@@ -15,4 +15,8 @@ public class DemoApplication {
 		System.out.println("same line changes and commit");
 	}
 
+	public void hello(){
+		System.out.println("Hello world");
+	}
+
 }
