@@ -10,6 +10,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("Hello world");
 		System.out.println("First change - to main");
+		System.out.println("feature branch changes");
 	}
 
 }
