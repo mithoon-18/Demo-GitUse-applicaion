@@ -18,4 +18,8 @@ public class DemoApplication {
 		System.out.println("Hello world");
 	}
 
+	public void greet(){
+		System.out.println("Welcome");
+	}
+
 }
