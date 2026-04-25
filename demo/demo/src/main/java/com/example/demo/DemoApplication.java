@@ -12,6 +12,7 @@ public class DemoApplication {
 		System.out.println("First change - to main");
 		System.out.println("feature branch changes");
 		System.out.println("feature second branch changes");
+		System.out.println("same line changes and commit");
 	}
 
 }
