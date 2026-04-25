@@ -20,6 +20,8 @@ public class DemoApplication {
 
 	public void greet(){
 		System.out.println("Welcome");
+	public void hello(){
+		System.out.println("Hello world");
 	}
 
 }
